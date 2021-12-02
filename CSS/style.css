@@ -1,0 +1,13 @@
+.container {
+ width: 47vw;
+ height: 67vh;
+ margin: 1vw 3vw;
+ background-color: #dbbe6e;
+ 
+}
+.forms {
+ display: flex;
+}
+.search_form {
+ margin-left: 7vw;
+}
